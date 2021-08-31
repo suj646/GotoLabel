@@ -1,0 +1,16 @@
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\gotolabel.exe
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\gotolabel.deps.json
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\gotolabel.runtimeconfig.json
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\gotolabel.runtimeconfig.dev.json
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\gotolabel.dll
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\ref\gotolabel.dll
+F:\DOTNET\gotolabel\gotolabel\bin\Debug\net5.0\gotolabel.pdb
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.csproj.AssemblyReference.cache
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.AssemblyInfoInputs.cache
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.AssemblyInfo.cs
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.csproj.CoreCompileInputs.cache
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.dll
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\ref\gotolabel.dll
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.pdb
+F:\DOTNET\gotolabel\gotolabel\obj\Debug\net5.0\gotolabel.genruntimeconfig.cache
